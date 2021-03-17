@@ -1,3 +1,11 @@
+.site-title::before {
+  content: url("/screenshot.jpg");
+  display: inline-block;
+  position: relative;
+  width: 32px;
+  top: 32px;
+}
+
 ## Augmented Reality (AR) geological model of Lahendong Geothermal Reservoir on Minahasa Compartment, North Sulawesi, Indonesia
 
 <!-- Import the component -->
