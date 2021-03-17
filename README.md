@@ -9,7 +9,7 @@
 </style>
 
 <script>
-document.querySelector("header h1").textContent = 'New Title'
+document.querySelector("header h1").textContent = 'Geology XXI Century'
 </script>
 
 ## Augmented Reality (AR) geological model of Lahendong Geothermal Reservoir on Minahasa Compartment, North Sulawesi, Indonesia
