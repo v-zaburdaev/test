@@ -1,15 +1,9 @@
-<style>
-  h1::after {
-  content: url("logo.jpg");
-  display: inline-block;
-  position: relative;
-  width: 32px;
-  top: 32px;
-}
-</style>
-
 <script>
 document.querySelector("header h1").textContent = 'Geology XXI Century'
+this.img = document.createElement("img");
+this.img.src = "https://avatars.githubusercontent.com/u/7342379?s=460&u=37e514700d78db61a39b9b298b7e70b63b1f390a&v=4";
+src = document.querySelector("p.view");
+src.appendChild(this.img);
 </script>
 
 ## Augmented Reality (AR) geological model of Lahendong Geothermal Reservoir on Minahasa Compartment, North Sulawesi, Indonesia
