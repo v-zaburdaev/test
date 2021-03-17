@@ -1,5 +1,5 @@
 <style>
-  h1::before {
+  h1::after {
   content: url("logo.jpg");
   display: inline-block;
   position: relative;
