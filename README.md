@@ -1,6 +1,6 @@
 <style>
   h1::before {
-  content: url("/screenshot.jpg");
+  content: url("screenshot.jpg");
   display: inline-block;
   position: relative;
   width: 32px;
