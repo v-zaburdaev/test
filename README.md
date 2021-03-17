@@ -1,5 +1,5 @@
 <script>
-document.querySelector("header h1").textContent = 'XXI Century Geology'
+document.querySelector("header h1").textContent = '21st Geology'
 this.img = document.createElement("img");
 this.img.src = "https://avatars.githubusercontent.com/u/7342379?s=460&u=37e514700d78db61a39b9b298b7e70b63b1f390a&v=4";
 src = document.querySelector("p.view");
