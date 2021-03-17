@@ -1,5 +1,5 @@
 <style>
-  .site-title::before {
+  h1::before {
   content: url("/screenshot.jpg");
   display: inline-block;
   position: relative;
@@ -8,7 +8,9 @@
 }
 </style>
 
-# Title
+<script>
+document.querySelector("header h1").textContent = 'New Title'
+</script>
 
 ## Augmented Reality (AR) geological model of Lahendong Geothermal Reservoir on Minahasa Compartment, North Sulawesi, Indonesia
 
