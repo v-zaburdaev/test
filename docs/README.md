@@ -19,7 +19,7 @@ model-viewer {
 }
 </style>
 <!-- page content -->
-<model-viewer
+<model-viewer id="modelviewer1"
     src="Minahasa08.glb?time=1"
     ios-src="Minahasa08.m.usdz"
     poster="screenshot.jpg"
@@ -32,7 +32,7 @@ model-viewer {
 ## Augmented Reality (AR) Geological Model of Rinjani and Tambora volcanoes area, Indonesia
 
 <!-- page content -->
-<model-viewer
+<model-viewer id="modelviewer2"
     src="Minahasa08.glb?time=1"
     ios-src="Minahasa08.m.usdz"
     poster="screenshot.jpg"
