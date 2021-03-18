@@ -15,7 +15,7 @@ We recommend you use recent iOS/iPadOS/Android device for the best Virtual and A
 <style>
 model-viewer {
   width: 600px;
-  height: 400px;
+  height: 350px;
 }
 </style>
 <!-- page content -->
