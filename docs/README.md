@@ -6,9 +6,9 @@ src = document.querySelector("p.view");
 src.appendChild(this.img);
 </script>
 
-**We recommend you use recent iOS/iPadOS/Android device for the best Virtual and Augmented Reality experience.**
+**We recommend you use recent iOS/iPadOS/Android device for the best [Augmented Reality](https://www.apple.com/augmented-reality/) experience.**
 
-## Augmented Reality (AR) geological model of Lahendong Geothermal Reservoir on Minahasa Compartment, North Sulawesi, Indonesia
+## Augmented Reality (AR) Geological Model of Lahendong Geothermal Reservoir on Minahasa Compartment, North Sulawesi, Indonesia
 
 <!-- Import the component -->
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
@@ -28,3 +28,5 @@ model-viewer {
     camera-controls
     alt="3D model"
 >
+
+## Augmented Reality (AR) Geological Model of Rinjani and Tambora volcanoes area, Indonesia
