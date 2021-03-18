@@ -14,12 +14,17 @@ src.appendChild(this.img);
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 <style>
 model-viewer {
-  width: 600px;
-  height: 350px;
+  display: block;
+  position: relative;
+  width: 500px;
+  height: 300px;
+  --poster-color: transparent;
 }
 </style>
 <!-- page content -->
-<model-viewer id="modelviewer1"
+<model-viewer
+    id="modelviewer1"
+    loading="eager"
     src="Minahasa08.glb?time=1"
     ios-src="Minahasa08.m.usdz"
     poster="screenshot.jpg"
@@ -32,7 +37,9 @@ model-viewer {
 ## Augmented Reality (AR) Geological Model of Rinjani and Tambora volcanoes area, Indonesia
 
 <!-- page content -->
-<model-viewer id="modelviewer2"
+<model-viewer
+    id="modelviewer2"
+    loading="eager"
     src="Minahasa08.glb?time=1"
     ios-src="Minahasa08.m.usdz"
     poster="screenshot.jpg"
