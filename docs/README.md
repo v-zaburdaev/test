@@ -18,7 +18,7 @@ src = document.querySelector("p.view");
 src.appendChild(this.img);
 </script>
 
-**We recommend you use recent iOS/iPadOS/Android device for the best [Augmented Reality](https://www.apple.com/augmented-reality/) experience.**
+**Recent iOS/iPadOS/Android devices assure the best [Augmented Reality](https://www.apple.com/augmented-reality/) experience.**
 
 ## Augmented Reality (AR) Geological Model of Lahendong Geothermal Reservoir on Minahasa Compartment, North Sulawesi, Indonesia
 <model-viewer
