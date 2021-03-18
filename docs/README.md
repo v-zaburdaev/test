@@ -27,6 +27,6 @@ model-viewer {
     ar-modes="webxr scene-viewer quick-look fallback"
     camera-controls
     alt="3D model"
->
+/>
 
 ## Augmented Reality (AR) Geological Model of Rinjani and Tambora volcanoes area, Indonesia
